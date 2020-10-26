@@ -1,0 +1,24 @@
+{
+  "name": "soundex",
+  "version": "1.0.0",
+  "description": "Implementing soundex algorithm for bulgarian",
+  "main": "soundex.js",
+  "scripts": {
+    "start": "node soundex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preslavsh/soundex.git"
+  },
+  "keywords": [
+    "soundex",
+    "bulgarian",
+    "node"
+  ],
+  "author": "Preslav Hadzhitsanev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preslavsh/soundex/issues"
+  },
+  "homepage": "https://github.com/preslavsh/soundex#readme"
+}
